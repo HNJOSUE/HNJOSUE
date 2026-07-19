@@ -23,27 +23,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
-> 💡 *¿Usas otras tecnologías? Dime cuáles y las agrego.*
 
 ---
 
 ### 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HNJOSUE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Josué" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNJOSUE&theme=radical&hide_border=true" alt="Racha de contribuciones" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNJOSUE&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="55%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
 ---
 
 ### 📈 Actividad reciente
@@ -59,8 +54,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HNJOSUE/HNJOSUE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
 </p>
-
-> ⚠️ *Esta animación de la serpiente necesita activarse una sola vez con un GitHub Action (te explico abajo cómo hacerlo, toma 2 minutos).*
 
 ---
 
