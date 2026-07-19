@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Josué%20Arnaul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Choche%20%7C%20Desarrollo%20Web%20%26%20Soporte%20Técnico&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
 <h1 align="center">¡Hola, soy Josué Arnaul! 👋</h1>
 <h3 align="center">Ayudo a crear páginas web y a solucionar problemas de informática 💻⚡</h3>
 
