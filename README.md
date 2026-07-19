@@ -11,10 +11,11 @@
 
 - 🔧 Ayudo a otras personas a **crear páginas web** y a **solucionar problemas de informática**
 - 📚 Sigo **aprendiendo cosas nuevas** para mejorar cada día en mi trabajo
+- 🤖 Me encanta usar la **IA** como herramienta de trabajo, la uso bastante en mi día a día
+- 🌐 También ofrezco **soporte remoto**, si lo necesitas
 - 🎨 Me gusta lo **minimalista**, pero con **colores bien bonitos**
 - 😄 Trabajo con dedicación... y siempre con un poco de humor
 - 📫 Puedes escribirme a: **josuemarquez00222hn@gmail.com**
-
 ---
 
 ### 🛠️ Tecnologías y herramientas
